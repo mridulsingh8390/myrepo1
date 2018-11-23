@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 56EC-8B52
+
+ Directory of C:\Users\IDC-2017-233\Desktop\myrepo1
+
+23-11-2018  10:27    <DIR>          .
+23-11-2018  10:27    <DIR>          ..
+23-11-2018  10:27               352 testfile1
+23-11-2018  10:27                 0 testfile1.txt
+               2 File(s)            352 bytes
+               2 Dir(s)  77,823,979,520 bytes free
+
+Hi this is my repo1 file
